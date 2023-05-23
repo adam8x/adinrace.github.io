@@ -1,0 +1,29 @@
+*{
+    background-color: #e3e5e8;
+    color:rgb(0, 0, 0);
+    font-family: 'Lato', sans-serif;
+}
+body {
+    font-size: 150%;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 200%;
+}
+.powrot img {
+    height: 50px;
+    width: 50px;
+    position:absolute;
+    top:2.5%;
+    left:1%;
+    transition: 0.4s;
+}
+.powrot img:hover{
+transform:scale(0.8)
+}
+.tekst img{
+    width: 30%;
+    height: 30%; 
+}
