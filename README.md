@@ -1,1 +1,1 @@
-Strona na WWW 
+Strona na www 
