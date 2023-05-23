@@ -20,7 +20,7 @@ h1 {
     grid-gap: 50px;   
     row-gap: 35px;
 }
-.gallery img{
+.gallery img {
     width: 100%;
     background: red;
     transition: transform 1s
